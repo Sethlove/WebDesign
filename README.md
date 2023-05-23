@@ -1,1 +1,1 @@
-# JavaHelloWorld
+# JSHelloWorld
